@@ -1,4 +1,4 @@
-FROM n8nio/n8n:0.233.1
+FROM n8nio/n8n
 
 ARG PGPASSWORD
 ARG PGHOST
